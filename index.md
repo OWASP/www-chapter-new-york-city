@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP new york city
-tags: example-tag
+title: OWASP New York City
+tags: NYC
 level: 4
 
 ---
