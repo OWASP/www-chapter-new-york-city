@@ -7,7 +7,7 @@
 
 ### Downloads or Social Links
 * [Download](#)
-* [https://www.meetup.com/owaspnyc/](#)
+* [Meetup](#https://www.meetup.com/owaspnyc/)
 
 ### Code Repository
 * [repo](#)
