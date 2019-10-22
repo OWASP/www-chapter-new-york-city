@@ -8,15 +8,18 @@ level: 4
 ---
 
 OWASP NYC
+[Mailing List](https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/new-york-chapter)
+[Meetup](https://www.meetup.com/owaspnyc/)
+[Twitter](https://twitter.com/owaspnyc)
 
 Chapter Sponsors
 
 Speaking at OWASP NYC Events
-[OWASP Speaker Agreement] (https://www.owasp.org/index.php/Speaker_Agreement)
+[OWASP Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
 
 Upcoming Events
 
-[All Day DevOps View Party] (https://www.meetup.com/owaspnyc/events/265080090/)
+[All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
 
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
