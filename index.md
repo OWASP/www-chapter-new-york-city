@@ -5,6 +5,8 @@ title: OWASP New York City
 tags: NYC
 level: 4
 
+region: United States
+
 ---
 
 OWASP NYC
