@@ -8,8 +8,8 @@ level: 4
 ---
 
 OWASP NYC
-[Mailing List](https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/new-york-chapter)
-[Meetup](https://www.meetup.com/owaspnyc/)
+[Mailing List](https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/new-york-chapter) |
+[Meetup](https://www.meetup.com/owaspnyc/) |
 [Twitter](https://twitter.com/owaspnyc)
 
 Chapter Sponsors
