@@ -23,7 +23,7 @@ Past Events
 
 [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
 
-- Conference view party time slot includes DevSecOps speakers, including Wendy Nather @wendynather) and Caroline Wong (@CarolineWMWong)
+- Conference view party time slot includes DevSecOps speakers, including Wendy Nather (@wendynather) and Caroline Wong (@CarolineWMWong)
 
 
 
