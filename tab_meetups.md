@@ -9,10 +9,16 @@ tags: NYC
 
 ---
 
-## Upcoming Events
+## OWASP New York City Chapter Meetups and Events
 
 
 Upcoming Events
+
+[NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/)
+Speakers:
++ Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anit-Ransomware Guide, AEHIS Incident Response Committee Chair
++ Elizabeth Frenz - [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
+
 
 [OWASP / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
 
