@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
 ### New York City Chapter Information
 
 * [Become a Member](https://owasp.org/membership/)
