@@ -5,7 +5,7 @@ title: OWASP New York City
 tags: NYC
 level: 0
 
-region: United States
+region: North America
 
 auto-migrated: 1
 
