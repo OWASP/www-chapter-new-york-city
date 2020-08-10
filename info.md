@@ -7,5 +7,5 @@
 * [Speaker Agreeement](https://owasp.org/www-policy/legal/speaker-agreement)
 
 ### Social Links
-* [Meetup](https://www.meetup.com/owaspnyc/)
+* [Meetup](https://www.meetup.com/OWASP-New-York-City-Chapter/)
 * [Twitter](https://twitter.com/owaspnyc)
