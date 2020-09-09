@@ -14,6 +14,14 @@ tags: NYC
 
 Upcoming Events
 
+[Wednesday, October 7 2020 - Kubernetes Security by Abhay Bhargav @abhaybhargav](https://www.meetup.com/OWASP-New-York-City-Chapter/events/273040201/)
+
+
+
+
+Past Events
+
+
 [NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/)
 Speakers:
 + Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anit-Ransomware Guide, AEHIS Incident Response Committee Chair
@@ -21,11 +29,6 @@ Speakers:
 
 
 [OWASP / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
-
-
-
-
-Past Events
 
 [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
 
