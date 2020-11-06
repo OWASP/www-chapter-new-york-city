@@ -28,7 +28,7 @@ Speakers:
 + Elizabeth Frenz - [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
 
 
-[OWASP / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
+[OWASP NYC / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
 
 [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
 
