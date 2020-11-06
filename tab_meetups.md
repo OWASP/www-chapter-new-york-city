@@ -24,7 +24,7 @@ Past Events
 
 [NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/)
 Speakers:
-+ Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anit-Ransomware Guide, AEHIS Incident Response Committee Chair
++ Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anti-Ransomware Guide, AEHIS Incident Response Committee Chair
 + Elizabeth Frenz - [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
 
 
