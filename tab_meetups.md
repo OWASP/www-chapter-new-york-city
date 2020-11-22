@@ -14,27 +14,26 @@ tags: NYC
 
 Upcoming Events
 
-[Wednesday, October 7 2020 - Kubernetes Security by Abhay Bhargav @abhaybhargav](https://www.meetup.com/OWASP-New-York-City-Chapter/events/273040201/)
+* [Monday, November 23 2020 - "How JWT's radically change session management in web and API applications", by Jim Manico @manicode](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274579859/)
 
 
 
 
 Past Events
 
+* [“Tesseract Incursion: Breaking and Securing the Kube”, by Abhay Bhargav @abhaybhargav](https://www.youtube.com/watch?v=mxJZ5zrDEXk&t=2140s)
 
-[NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/)
+* [NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/)
 Speakers:
 + Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anti-Ransomware Guide, AEHIS Incident Response Committee Chair
 + Elizabeth Frenz - [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
 
+* [OWASP NYC / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
 
-[OWASP NYC / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
-
-[All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
+* [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/)
 
 - Conference view party time slot includes DevSecOps speakers, including Wendy Nather (@wendynather) and Caroline Wong (@CarolineWMWong)
 
 
-
-[NYC Cyber Social Q4 Event](https://www.meetup.com/owaspnyc/events/265669510/)
+* [NYC Cyber Social Q4 Event](https://www.meetup.com/owaspnyc/events/265669510/)
 
