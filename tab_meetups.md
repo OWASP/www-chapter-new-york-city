@@ -14,7 +14,7 @@ tags: NYC
 
 Upcoming Events
 
-* [Monday, November 23 2020 - "How JWT's radically change session management in web and API applications", by Jim Manico @manicode](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274579859/)
+
 
 
 
