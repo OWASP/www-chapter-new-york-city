@@ -14,6 +14,8 @@ tags: NYC
 
 Upcoming Events
 
+* [Supply Chain and Vendor Management by Li-Ann Wong](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275079915)
+
 * [Vandana Verma @InfosecVandana](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274847156/)
 
 
