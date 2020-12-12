@@ -14,14 +14,14 @@ tags: NYC
 
 Upcoming Events
 
-* [Supply Chain and Vendor Management by Li-Ann Wong](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275079915)
-
 * [Vandana Verma @InfosecVandana](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274847156/)
 
 
 
 
 Past Events
+
+* [Supply Chain / Vendor Management by Li-Ann Wong](https://www.youtube.com/watch?v=KnMXLyborrU&t=2s)
 
 * [“Tesseract Incursion: Breaking and Securing the Kube”, by Abhay Bhargav @abhaybhargav](https://www.youtube.com/watch?v=mxJZ5zrDEXk&t=2140s)
 
