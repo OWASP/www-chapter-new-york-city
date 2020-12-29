@@ -14,7 +14,7 @@ tags: NYC
 
 Upcoming Events
 
-* [Vandana Verma @InfosecVandana](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274847156/)
+* [Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274847156/)
 
 
 
