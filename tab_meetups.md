@@ -14,12 +14,12 @@ tags: NYC
 
 Upcoming Events
 
-* [Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana](https://www.meetup.com/OWASP-New-York-City-Chapter/events/274847156/)
-
 
 
 
 Past Events
+
+* [Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=xLB1gZGbvR4&feature=youtu.be)
 
 * [Supply Chain / Vendor Management by Li-Ann Wong](https://www.youtube.com/watch?v=KnMXLyborrU&t=2s)
 
