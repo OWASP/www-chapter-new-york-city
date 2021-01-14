@@ -14,7 +14,7 @@ tags: NYC
 
 Upcoming Events
 
-
+* ["Runnning a Scalable AppSec Program Using Open Source" by Spyros Gasteratos @0xfde](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275127251/)
 
 
 Past Events
