@@ -14,10 +14,10 @@ tags: NYC
 
 Upcoming Events
 
-* ["Runnning a Scalable AppSec Program Using Open Source" by Spyros Gasteratos @0xfde](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275127251/)
-
 
 Past Events
+
+* [Running an AppSec Program with Open Source by Spyros Gasteratos @0xfde](https://www.youtube.com/watch?v=8B3KLqNatm8)
 
 * [Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana](https://www.youtube.com/watch?v=xLB1gZGbvR4&feature=youtu.be)
 
