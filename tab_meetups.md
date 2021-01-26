@@ -14,6 +14,8 @@ tags: NYC
 
 Upcoming Events
 
+* [Threat Modeling by Izar Tarandach @izar_t and Matthew Coles @coles_matthewj](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275276260/)
+
 
 Past Events
 
