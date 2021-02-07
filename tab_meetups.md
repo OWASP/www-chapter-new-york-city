@@ -16,6 +16,8 @@ Upcoming Events
 
 * [Threat Modeling by Izar Tarandach @izar_t and Matthew Coles @coles_matthewj](https://www.meetup.com/OWASP-New-York-City-Chapter/events/275276260/)
 
+* ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.meetup.com/OWASP-New-York-City-Chapter/events/276109825)
+
 
 Past Events
 
