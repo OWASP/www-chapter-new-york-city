@@ -14,6 +14,7 @@ tags: NYC
 
 Upcoming Events
 
+* ["Is blockchain really secure??" by Shrutirupa Banergiee @freak_crypt](https://www.meetup.com/OWASP-New-York-City-Chapter/events/276820584/)
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.meetup.com/OWASP-New-York-City-Chapter/events/276109825)
 
 
