@@ -15,6 +15,7 @@ tags: NYC
 Upcoming Events
 
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.meetup.com/OWASP-New-York-City-Chapter/events/276109825)
+* * ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @fare](https://www.meetup.com/OWASP-New-York-City-Chapter/events/277055170)
 
 
 Past Events
