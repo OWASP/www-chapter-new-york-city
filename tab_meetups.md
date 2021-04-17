@@ -14,7 +14,7 @@ tags: NYC
 
 Upcoming Events
 
-* 
+* ["Using OWASP Nettacker For Recon and Vulnerability Scanning" by Sam Stepanyan @securestep9](https://www.meetup.com/OWASP-New-York-City-Chapter/events/277408962/)
 
 
 Past Events
