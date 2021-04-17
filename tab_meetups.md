@@ -14,10 +14,12 @@ tags: NYC
 
 Upcoming Events
 
-* ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @fare](https://www.meetup.com/OWASP-New-York-City-Chapter/events/277055170)
+* 
 
 
 Past Events
+
+* ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @ngnghm @phanaero](https://www.youtube.com/watch?v=vVEiS6Pz_As)
 
 * ["Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico](https://www.youtube.com/watch?v=gmp2CuH_8uQ)
 
