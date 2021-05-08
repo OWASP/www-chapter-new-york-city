@@ -14,10 +14,11 @@ tags: NYC
 
 Upcoming Events
 
-* ["Using OWASP Nettacker For Recon and Vulnerability Scanning" by Sam Stepanyan @securestep9](https://www.meetup.com/OWASP-New-York-City-Chapter/events/277408962/)
-
 
 Past Events
+
+
+* ["Using OWASP Nettacker For Recon and Vulnerability Scanning" by Sam Stepanyan @securestep9](https://www.youtube.com/watch?v=D3U5IlmpCCk&t=6s)
 
 * ["'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @ngnghm @phanaero](https://www.youtube.com/watch?v=vVEiS6Pz_As)
 
