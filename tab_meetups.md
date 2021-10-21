@@ -14,6 +14,8 @@ tags: NYC
 
 Upcoming Events
 
+* ["Keep your code safe during the development path using Opensource tools." by Filipe Perez @FilipiPires](https://www.meetup.com/OWASP-New-York-City-Chapter/events/281288393)
+
 
 Past Events
 
