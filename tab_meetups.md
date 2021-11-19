@@ -14,11 +14,11 @@ tags: NYC
 
 Upcoming Events
 
-* ["Keep your code safe during the development path using Opensource tools." by Filipe Pires @FilipiPires](https://www.meetup.com/OWASP-New-York-City-Chapter/events/281288393)
-
 
 Past Events
 
+
+* ["Keep your code safe during the development path using Opensource tools." by Filipe Pires @FilipiPires](https://www.youtube.com/watch?v=lDRdqEh0YKw&t=4s)
 
 * ["Using OWASP Nettacker For Recon and Vulnerability Scanning" by Sam Stepanyan @securestep9](https://www.youtube.com/watch?v=D3U5IlmpCCk&t=6s)
 
