@@ -18,6 +18,8 @@ Upcoming Events
 Past Events
 
 
+* ["MITRE Assistant" by Carlos Diaz](https://youtu.be/DsgD4VZ0ln0)
+
 * ["OWASP Amass" by Jeff Foley @jeff_foley](https://www.youtube.com/watch?v=tGitZO8EkMI)
 
 * ["Keep your code safe during the development path using Opensource tools." by Filipe Pires @FilipiPires](https://www.youtube.com/watch?v=lDRdqEh0YKw&t=4s)
