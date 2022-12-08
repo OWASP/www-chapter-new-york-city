@@ -18,6 +18,8 @@ Upcoming Events
 Past Events
 
 
+* ["Software Bill of Materials" by Curtis Yanko](https://www.youtube.com/watch?v=9YhYYr-zEJA)
+
 * ["MITRE Assistant" by Carlos Diaz](https://youtu.be/DsgD4VZ0ln0)
 
 * ["OWASP Amass" by Jeff Foley @jeff_foley](https://www.youtube.com/watch?v=tGitZO8EkMI)
