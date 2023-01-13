@@ -14,8 +14,6 @@ tags: NYC
 
 Upcoming Events
 
-* [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.youtube.com/watch?v=k9v8SZPwetg)
-
 
 Past Events
 
