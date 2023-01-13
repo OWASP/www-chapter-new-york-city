@@ -14,11 +14,13 @@ tags: NYC
 
 Upcoming Events
 
-* [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.meetup.com/owasp-new-york-city-chapter/events/290579782/)
+* [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.youtube.com/watch?v=k9v8SZPwetg)
 
 
 Past Events
 
+
+* [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.youtube.com/watch?v=k9v8SZPwetg)
 
 * ["Software Bill of Materials" by Curtis Yanko](https://www.youtube.com/watch?v=9YhYYr-zEJA)
 
