@@ -6,6 +6,7 @@ tags: NYC
 level: 0
 meetup-group: OWASP-New-York-City-Chapter
 region: North America
+state: New York 
 country: USA
 
 ---
