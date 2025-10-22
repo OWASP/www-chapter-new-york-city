@@ -1,0 +1,24 @@
+leaders:
+  - name: Guy Osa
+    email: guy.osa@owasp.org
+  - name: Zoe Braiterman
+    email: zoe.braiterman@owasp.org
+    github: zbraiterman
+location:
+  country: United States
+  country_code: US
+  region: New York
+  city: New York City
+  latitude: 40.7127281
+  longitude: -74.0060152
+meetup_group: OWASP-New-York-City-Chapter
+name: OWASP New York City
+repositories:
+  - name: www-chapter-new-york-city
+    url: https://github.com/OWASP/www-chapter-new-york-city
+    description: OWASP Foundation Web Repository
+tags:
+  - NYC
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-new-york-city
