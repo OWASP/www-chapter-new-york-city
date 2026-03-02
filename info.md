@@ -8,7 +8,7 @@
 
 ### Social Links
 
-* [Meetup](https://www.meetup.com/OWASP-New-York-City-Chapter/)
-* [Twitter](https://twitter.com/owaspnyc)
+* [Meetup](https://www.meetup.com/OWASP-New-York-City-Chapter)
+* [LinkedIn](https://www.linkedin.com/company/100945437)
 * [YouTube](https://www.youtube.com/channel/UCJFpQjVjqFd097y9eKgatTA)
 * [Mailing List](mailto:new-york-chapter@owasp.org) 
