@@ -17,6 +17,7 @@ Upcoming Events
 
 Past Events
 
+* [OWASP NYC Hackfest w/ a Secure Code Showdown](https://www.meetup.com/owasp-new-york-city-chapter/events/312990023)
 
 * [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.youtube.com/watch?v=k9v8SZPwetg)
 
