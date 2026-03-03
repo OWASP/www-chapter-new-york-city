@@ -10,6 +10,7 @@ state: New York
 country: USA
 
 ---
+![OWASP New York City Chapter](assets/images/owasp_nyc_logo.png)
 
 ### Upcoming Meetings
 
