@@ -1,6 +1,6 @@
 ### New York City Chapter Information
 
-* [Become a Member](https://owasp.org/membership/)
+* [Become a Member](https://owasp.glueup.com/organization/6727/memberships)
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=XxntPxfJsdE)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/d/forum/new-york-chapter)
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
