@@ -23,6 +23,8 @@ Past Events
 
 * [OWASP AI Podcast - Happy Hour - Insecure Agents: LIVE Panel & Podcast](https://www.meetup.com/owasp-new-york-city-chapter/events/311971509)
 
+* ["From Zero Trust to Two Scoops" with Carlos Menas](https://www.meetup.com/owasp-new-york-city-chapter/events/310717536)
+
 * ["Mastering Reachability Analysis" with Francesco Cipollone](https://www.meetup.com/owasp-new-york-city-chapter/events/305831655)
 
 * [OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman](https://www.youtube.com/watch?v=k9v8SZPwetg)
