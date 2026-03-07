@@ -12,7 +12,7 @@ tags: NYC
 ## OWASP New York City Chapter Meetups and Events
 
 
-Upcoming Events
+![](assets/images/top-meetup-group-2025.png)
 
 
 Past Events
@@ -20,8 +20,6 @@ Past Events
 * [Join the OWASP NYC Chapter for the 17th NY Cybersecurity Summit Invitation](https://www.meetup.com/owasp-new-york-city-chapter/events/313338259)
 
 * [OWASP NYC Hackfest w/ a Secure Code Showdown](https://www.meetup.com/owasp-new-york-city-chapter/events/312990023)
-
-![Top Meetup group of 2025](assets/images/top-meetup-group-2025.png)
 
 * [OWASP AI Podcast - Happy Hour - Insecure Agents: LIVE Panel & Podcast](https://www.meetup.com/owasp-new-york-city-chapter/events/311971509)
 
