@@ -18,7 +18,7 @@ tags: NYC
 
 ## Upcoming Events
 
-* [OWASP NYC Chapter is going to the largest Tech Expo in Brooklyn](https://www.meetup.com/owasp-new-york-city-chapter/events/314555394)
+* ["OWASP NYC Chapter is going to the largest Tech Expo in Brooklyn"](https://www.meetup.com/owasp-new-york-city-chapter/events/314555394)
 
 ------
 
