@@ -4,7 +4,7 @@
 * [An overview of OWASP, by Nancy Gariche](https://www.youtube.com/watch?v=XxntPxfJsdE)
 * [Join Our Mailing List](https://groups.google.com/a/owasp.org/d/forum/new-york-chapter)
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
-* [Speaker Agreeement](https://owasp.org/www-policy/legal/speaker-agreement)
+* [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 
 ### Social Links
 
