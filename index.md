@@ -14,7 +14,7 @@ country: USA
 
 ### Upcoming Meetings
 
-We schedule our meetings on the [OWASP New York Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter/)
+We schedule our meetings on the OWASP New York [Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter/) and [Luma calendar](https://luma.com/owasp-new-yorl-city)
 
 {% include chapter_events.html group=page.meetup-group %}
 
