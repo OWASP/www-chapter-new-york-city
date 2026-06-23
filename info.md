@@ -8,6 +8,7 @@
 
 ### Social Links
 
+* [Luma](https://luma.com/owasp-new-yorl-city)
 * [Meetup](https://www.meetup.com/OWASP-New-York-City-Chapter)
 * [LinkedIn](https://www.linkedin.com/company/100945437)
 * [YouTube](https://www.youtube.com/channel/UCJFpQjVjqFd097y9eKgatTA)
