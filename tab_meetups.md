@@ -17,12 +17,14 @@ tags: NYC
 
 ## Upcoming Events
 
-* [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
-* ["The Science of Silence: Beyond the Detection Trap" by Christopher Frenz](https://luma.com/jfipvwg9)
 
 ----------
 
 ## Past Events
+
+* ["The Science of Silence: Beyond the Detection Trap" by Christopher Frenz](https://www.youtube.com/watch?v=P0x9k7PuIdY)
+
+* [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
 
 * ["OWASP NYC Chapter is going to the largest Tech Expo in Brooklyn"](https://www.meetup.com/owasp-new-york-city-chapter/events/314555394)
 
