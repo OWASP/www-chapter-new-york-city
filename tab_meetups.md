@@ -36,10 +36,30 @@ tags: NYC
     color: #003366;
     font-weight: 700;
   }
+
+  .past-event-link {
+    background: #003366;
+    border-radius: 999px;
+    color: #ffffff;
+    display: inline-block;
+    font-weight: 700;
+    margin: 0 0.5rem 0.75rem 0;
+    padding: 0.45rem 0.9rem;
+    text-decoration: none;
+  }
+
+  .past-event-links li {
+    margin-bottom: 0.5rem;
+  }
 </style>
 
 <div class="past-event-card">
   <p>"The Science of Silence: Beyond the Detection Trap" by Christopher Frenz</p>
+  <ul class="past-event-links">
+    <li><a class="past-event-link" href="https://github.com/zbraiterman/www-chapter-new-york-city/blob/master/assets/documents/meetup-presentation-chris-frenz-July2026.pdf">Presentation</a></li>
+    <li><a class="past-event-link" href="https://github.com/cfrenz/Path-Erasure-Engine">Path Erasure Engine</a></li>
+    <li><a class="past-event-link" href="https://github.com/OWASP/OWASP-Subtractive-Hardening-Top-10">OWASP Subtractive Hardening Top 10 Project</a></li>
+  </ul>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY?si=eUMue_vRLKgOI1TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
