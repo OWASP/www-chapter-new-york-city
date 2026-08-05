@@ -55,17 +55,21 @@ tags: NYC
 
 <div class="past-event-card">
   <p>"The Science of Silence: Beyond the Detection Trap" by Christopher Frenz</p>
-  <ul class="past-event-links">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY?si=eUMue_vRLKgOI1TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <ul class="past-event-links">
     <li><a class="past-event-link" href="https://github.com/zbraiterman/www-chapter-new-york-city/blob/master/assets/documents/meetup-presentation-chris-frenz-July2026.pdf">Presentation</a></li>
     <li><a class="past-event-link" href="https://github.com/cfrenz/Path-Erasure-Engine">Path Erasure Engine</a></li>
     <li><a class="past-event-link" href="https://github.com/OWASP/OWASP-Subtractive-Hardening-Top-10">OWASP Subtractive Hardening Top 10 Project</a></li>
   </ul>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY?si=eUMue_vRLKgOI1TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/k9v8SZPwetg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <ul class="past-event-links">
+    <li><a class="past-event-link" href="https://github.com/OWASP/www-project-vulnerability-management-guide/blob/master/owasp_VMG_01122023.pdf">Presentation</a></li>
+    <li><a class="past-event-link" href="https://github.com/OWASP/www-project-vulnerability-management-guide">OWASP Vulnerability Management Guide Project</a></li>
+  </ul>
 </div>
 
 <div class="past-event-card">
