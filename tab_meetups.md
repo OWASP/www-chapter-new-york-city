@@ -23,6 +23,21 @@ tags: NYC
 
 <!-- markdownlint-disable MD033 -->
 
+<style>
+  .past-event-card {
+    background: #f7e7ce;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 34, 68, 0.18);
+    margin: 1.5rem 0;
+    padding: 1rem;
+  }
+
+  .past-event-card p {
+    color: #003366;
+    font-weight: 700;
+  }
+</style>
+
 <div class="past-event-card">
   <p>"The Science of Silence: Beyond the Detection Trap" by Christopher Frenz</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY?si=eUMue_vRLKgOI1TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -114,7 +129,7 @@ tags: NYC
 
 * [OWASP AI Podcast - Happy Hour - Insecure Agents: LIVE Panel & Podcast](https://www.meetup.com/owasp-new-york-city-chapter/events/311971509)
 
-* ["From Zero Trust to Two Scoops" with Carlos Menas](https://www.meetup.com/owasp-new-york-city-chapter/events/310717536)
+* ["From Zero Trust to Two Scoops" with Carlos Mena](https://www.meetup.com/owasp-new-york-city-chapter/events/310717536)
 
 * ["Mastering Reachability Analysis" with Francesco Cipollone](https://www.meetup.com/owasp-new-york-city-chapter/events/305831655)
 
