@@ -98,11 +98,11 @@ tags: NYC
   <iframe width="560" height="315" src="https://www.youtube.com/embed/mxJZ5zrDEXk?start=2140" title="Tesseract Incursion: Breaking and Securing the Kube, by Abhay Bhargav @abhaybhargav" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 </div>
 
-------------
+<!-- markdownlint-enable MD033 -->
+
+----------
 
 ## Past Conferences and Social Events
-
-<!-- markdownlint-enable MD033 -->
 
 * [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
 
