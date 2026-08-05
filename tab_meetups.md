@@ -25,77 +25,77 @@ tags: NYC
 
 <div class="past-event-card">
   <p>"The Science of Silence: Beyond the Detection Trap" by Christopher Frenz</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY" title="The Science of Silence: Beyond the Detection Trap by Christopher Frenz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/P0x9k7PuIdY?si=eUMue_vRLKgOI1TW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/k9v8SZPwetg" title="OWASP Vulnerability Management Guide inaugural working group meeting, by Elizabeth Frenz, Theresa Mammarella @t_mammarella and Zoe Braiterman @zbraiterman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k9v8SZPwetg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"Software Bill of Materials" by Curtis Yanko</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9YhYYr-zEJA" title="Software Bill of Materials by Curtis Yanko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9YhYYr-zEJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"MITRE Assistant" by Carlos Diaz</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/DsgD4VZ0ln0" title="MITRE Assistant by Carlos Diaz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DsgD4VZ0ln0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"OWASP Amass" by Jeff Foley @jeff_foley</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGitZO8EkMI" title="OWASP Amass by Jeff Foley @jeff_foley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGitZO8EkMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"Keep your code safe during the development path using Opensource tools." by Filipe Pires @FilipiPires</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/lDRdqEh0YKw?start=4" title="Keep your code safe during the development path using Opensource tools. by Filipe Pires @FilipiPires" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/lDRdqEh0YKw?start=4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"Using OWASP Nettacker For Recon and Vulnerability Scanning" by Sam Stepanyan @securestep9</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/D3U5IlmpCCk?start=6" title="Using OWASP Nettacker For Recon and Vulnerability Scanning by Sam Stepanyan @securestep9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/D3U5IlmpCCk?start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"'Security Through Clarity' and Why Programming Languages and Architecture Matter" by Francois-Rene Rideau @ngnghm @phanaero</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/vVEiS6Pz_As" title="Security Through Clarity and Why Programming Languages and Architecture Matter by Francois-Rene Rideau @ngnghm @phanaero" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vVEiS6Pz_As" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"Do certain types of developers or teams write more secure code?" by Anita D'Amico @AnitaDamico</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gmp2CuH_8uQ" title="Do certain types of developers or teams write more secure code? by Anita D'Amico @AnitaDamico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/gmp2CuH_8uQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>"Is blockchain really secure??" by Shrutirupa Banergiee @freak_crypt</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf--4IRd1mY" title="Is blockchain really secure?? by Shrutirupa Banergiee @freak_crypt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wf--4IRd1mY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>Threat Modeling by Izar Tarandach @izar_t and Matthew Coles @coles_matthewj</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/RiSIQx-UDuA" title="Threat Modeling by Izar Tarandach @izar_t and Matthew Coles @coles_matthewj" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RiSIQx-UDuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>Running an AppSec Program with Open Source by Spyros Gasteratos @0xfde</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8B3KLqNatm8" title="Running an AppSec Program with Open Source by Spyros Gasteratos @0xfde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8B3KLqNatm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/xLB1gZGbvR4" title="Building an AppSec Program with Open Source by Vandana Verma @InfosecVandana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xLB1gZGbvR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>Supply Chain / Vendor Management by Li-Ann Wong</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/KnMXLyborrU?start=2" title="Supply Chain / Vendor Management by Li-Ann Wong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KnMXLyborrU?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="past-event-card">
   <p>“Tesseract Incursion: Breaking and Securing the Kube”, by Abhay Bhargav @abhaybhargav</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/mxJZ5zrDEXk?start=2140" title="Tesseract Incursion: Breaking and Securing the Kube, by Abhay Bhargav @abhaybhargav" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mxJZ5zrDEXk?start=2140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <!-- markdownlint-enable MD033 -->
