@@ -28,13 +28,52 @@ tags: NYC
     background: #f7e7ce;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 34, 68, 0.18);
+    box-sizing: border-box;
     margin: 1.5rem 0;
     padding: 1rem;
+  }
+
+  .past-event-card a {
+    overflow-wrap: anywhere;
   }
 
   .past-event-card p {
     color: #003366;
     font-weight: 700;
+    line-height: 1.45;
+    margin: 0 0 1rem;
+  }
+
+  .past-event-card p:last-child {
+    margin-bottom: 0;
+  }
+
+  .past-event-card p:not(:first-child) {
+    font-weight: 400;
+  }
+
+  .past-event-card iframe {
+    aspect-ratio: 16 / 9;
+    display: block;
+    height: auto;
+    margin: 0 0 1rem;
+    max-width: 100%;
+    width: 560px;
+  }
+
+  .past-event-image {
+    border-radius: 6px;
+    display: block;
+    height: auto;
+    margin: 0 0 1rem;
+    max-width: 100%;
+    width: 560px;
+  }
+
+  .past-event-links {
+    list-style-position: outside;
+    margin: 0;
+    padding-left: 1.25rem;
   }
 
   .past-event-link {
@@ -50,6 +89,24 @@ tags: NYC
 
   .past-event-links li {
     margin-bottom: 0.5rem;
+  }
+
+  @media (max-width: 640px) {
+    .past-event-card {
+      margin: 1rem 0;
+      padding: 0.875rem;
+    }
+
+    .past-event-card iframe,
+    .past-event-image {
+      width: 100%;
+    }
+
+    .past-event-link {
+      display: block;
+      margin-right: 0;
+      text-align: center;
+    }
   }
 </style>
 
@@ -143,24 +200,56 @@ tags: NYC
 
 ## Past Conferences and Social Events
 
-* [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
+<!-- markdownlint-disable MD033 -->
 
-* ["OWASP NYC Chapter is going to the largest Tech Expo in Brooklyn"](https://www.meetup.com/owasp-new-york-city-chapter/events/314555394)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/315378372/">OWASP NYC Chapter IAM Summit 2026 Event</a></p>
+  <img class="past-event-image" src="assets/images/new_york_identity_and_access_management_summit_2026.JPEG" alt="OWASP NYC Identity and Access Management Summit 2026 booth" width="560" height="747" loading="lazy" decoding="async">
+  <ul class="past-event-links">
+    <li><a class="past-event-link" href="https://github.com/zbraiterman/www-chapter-new-york-city/blob/master/assets/documents/OWASP_NY_Identity_NHI_Companion.pdf">OWASP New York City NHI Companion, created by Carlos Mena</a></li>
+  </ul>
+</div>
 
-* [Join the OWASP NYC Chapter for the 17th NY Cybersecurity Summit Invitation](https://www.meetup.com/owasp-new-york-city-chapter/events/313338259)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/314555394">"OWASP NYC Chapter is going to the largest Tech Expo in Brooklyn"</a></p>
+</div>
 
-* [OWASP NYC Hackfest w/ a Secure Code Showdown](https://www.meetup.com/owasp-new-york-city-chapter/events/312990023)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/313338259">Join the OWASP NYC Chapter for the 17th NY Cybersecurity Summit Invitation</a></p>
+</div>
 
-* [OWASP AI Podcast - Happy Hour - Insecure Agents: LIVE Panel & Podcast](https://www.meetup.com/owasp-new-york-city-chapter/events/311971509)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/312990023">OWASP NYC Hackfest w/ a Secure Code Showdown</a></p>
+</div>
 
-* ["From Zero Trust to Two Scoops" with Carlos Mena](https://www.meetup.com/owasp-new-york-city-chapter/events/310717536)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/311971509">OWASP AI Podcast - Happy Hour - Insecure Agents: LIVE Panel &amp; Podcast</a></p>
+</div>
 
-* ["Mastering Reachability Analysis" with Francesco Cipollone](https://www.meetup.com/owasp-new-york-city-chapter/events/305831655)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/310717536">"From Zero Trust to Two Scoops" with Carlos Mena</a></p>
+</div>
 
-* [NYC Chapter at OWASP Chapters All Day](https://owasp.org/www-community/social/chapters_all_day/) - Speakers:  Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anti-Ransomware Guide, AEHIS Incident Response Committee Chair & Elizabeth Frenz - [OWASP Vulnerability Management Guide](https://owasp.org/www-project-vulnerability-management-guide/)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owasp-new-york-city-chapter/events/305831655">"Mastering Reachability Analysis" with Francesco Cipollone</a></p>
+</div>
 
-* [OWASP NYC / Women in AppSec Secure Coding Tournament](https://www.meetup.com/owaspnyc/events/268287744/)
+<div class="past-event-card">
+  <p><a href="https://owasp.org/www-community/social/chapters_all_day/">NYC Chapter at OWASP Chapters All Day</a></p>
+  <p>Speakers: Christopher Frenz - OWASP Medical Device Deployment Standard, OWASP Anti-Ransomware Guide, AEHIS Incident Response Committee Chair &amp; Elizabeth Frenz - <a href="https://owasp.org/www-project-vulnerability-management-guide/">OWASP Vulnerability Management Guide</a></p>
+</div>
 
-* [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/) - Conference view party time slot includes DevSecOps speakers, including Wendy Nather (@wendynather) and Caroline Wong (@CarolineWMWong)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owaspnyc/events/268287744/">OWASP NYC / Women in AppSec Secure Coding Tournament</a></p>
+</div>
 
-* [NYC Cyber Social Q4 Event](https://www.meetup.com/owaspnyc/events/265669510/)
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owaspnyc/events/265080090/">All Day DevOps View Party</a></p>
+  <p>Conference view party time slot includes DevSecOps speakers, including Wendy Nather (@wendynather) and Caroline Wong (@CarolineWMWong)</p>
+</div>
+
+<div class="past-event-card">
+  <p><a href="https://www.meetup.com/owaspnyc/events/265669510/">NYC Cyber Social Q4 Event</a></p>
+</div>
+
+<!-- markdownlint-enable MD033 -->
